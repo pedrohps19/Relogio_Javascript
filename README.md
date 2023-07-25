@@ -1,1 +1,1 @@
-# Relógio_Javascript
+# Relógio - tempo real em Javascript
